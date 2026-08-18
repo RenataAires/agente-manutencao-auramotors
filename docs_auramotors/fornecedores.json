@@ -1,0 +1,14 @@
+[
+    {
+        "id": "FORN-01",
+        "nome": "Metalúrgica Precision",
+        "categoria": "Fixadores",
+        "sla_entrega_dias": 3
+    },
+    {
+        "id": "FORN-02",
+        "nome": "AutoSensors Brasil",
+        "categoria": "Sensores",
+        "sla_entrega_dias": 7
+    }
+]

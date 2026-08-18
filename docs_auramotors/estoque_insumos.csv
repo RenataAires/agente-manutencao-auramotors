@@ -1,0 +1,4 @@
+SKU,Item,Quantidade,Estoque_Minimo,Status
+SKU-8821,Parafuso M8 Aço Inox,1500,500,OK
+SKU-4412,Sensor Indutivo 24V,12,20,REPOSIÇÃO CRÍTICA
+SKU-9901,Rolamento Axial 35mm,45,50,REPOSIÇÃO NECESSÁRIA
